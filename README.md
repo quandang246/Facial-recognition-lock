@@ -2,7 +2,7 @@
 Facial recognition door lock project is a smart security solution that enables access to a building or a room based on facial recognition technology.
 The project aims to provide a secure and efficient way of granting access to a space, without the need for physical keys or passwords.
 
-![Raspberry pi 4](https://github.com/username/repo/raw/master/images/cat.jpg](https://raw.githubusercontent.com/quandang246/Facial-recognition-lock/main/Result/z4092829505409_282427ef896b2137e832ca91b04da897.jpg)
+![codin_raspberry_pi_4](https://raw.githubusercontent.com/quandang246/Facial-recognition-lock/main/Result/z4092830730779_89db81ba5cf238e3462e29b28f7bad99.jpg)
 
 The system consists of a camera module, a microcontroller, and a locking mechanism. The camera module captures the face of an individual standing in front of the door, and the microcontroller processes the facial image to verify the person's identity. If the system recognizes the person as an authorized user, it sends a signal to the locking mechanism to unlock the door. Otherwise, the door remains locked.
 
